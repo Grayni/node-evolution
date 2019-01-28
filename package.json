@@ -1,0 +1,20 @@
+{
+  "name": "node-evolution",
+  "version": "1.0.0",
+  "description": "Project for raising level expirience node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grayni/node-evolution.git"
+  },
+  "keywords": [],
+  "author": "grayni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grayni/node-evolution/issues"
+  },
+  "homepage": "https://github.com/Grayni/node-evolution#readme"
+}
