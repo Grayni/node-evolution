@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Grayni/node-evolution/issues"
   },
-  "homepage": "https://github.com/Grayni/node-evolution#readme"
+  "homepage": "https://github.com/Grayni/node-evolution#readme",
+  "dependencies": {
+    "ansi": "^0.3.1"
+  }
 }
