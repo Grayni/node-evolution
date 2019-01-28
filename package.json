@@ -1,7 +1,7 @@
 {
   "name": "node-evolution",
   "version": "1.0.0",
-  "description": "Project for raising level expirience node.js",
+  "description": "Project for raising level expirience node.js...",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
