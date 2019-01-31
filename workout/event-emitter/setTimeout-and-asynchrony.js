@@ -49,7 +49,7 @@ NotebookHP.on('beginTick', () => {
   console.log('Notebook on through nextTick')
 })
 
-/*
+/**
  * result of implementation:
  * First: show nextTick
  * Second: show setImmediate
