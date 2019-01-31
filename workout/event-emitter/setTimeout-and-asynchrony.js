@@ -45,6 +45,7 @@ NotebookHP.on('beginImmediate', () => {
   console.log('Notebook on through setImmediate.')
 })
 
+// third step - run process.nextTick
 NotebookHP.on('beginTick', () => {
   console.log('Notebook on through nextTick')
 })
