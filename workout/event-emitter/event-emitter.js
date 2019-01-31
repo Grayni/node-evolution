@@ -13,7 +13,10 @@ class Kettle extends EventEmitter {
     }, 0);
   }
 }
-
+/**
+ * Create new obj Kettle
+ * @type {obj} standartKettle
+ */
 const standartKettle = new Kettle()
 
 standartKettle.start()
