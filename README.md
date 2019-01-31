@@ -8,3 +8,4 @@ Actual list of templates and examples:
 3. [EventEmitter - example](https://github.com/Grayni/node-evolution/blob/master/workout/event-emitter/event-emitter.js)
 4. [setTimeout and asynchrony](https://github.com/Grayni/node-evolution/blob/master/workout/event-emitter/setTimeout-and-asynchrony.js)
 5. [setImmediate and process.nextTick](https://github.com/Grayni/node-evolution/blob/master/workout/setImmediate-and-nextTick.js)
+6. [cli minimist](https://github.com/Grayni/node-evolution/blob/master/workout/console-app/cli-minimist.js)
