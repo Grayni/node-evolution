@@ -12,3 +12,4 @@ Actual list of templates and examples:
  7. [cli readline module](https://github.com/Grayni/node-evolution/blob/master/workout/console-app/cli-readline.js)
  8. [cli fs](https://github.com/Grayni/node-evolution/blob/master/workout/console-app/cli-fs.js)
  9. [https module](https://github.com/Grayni/node-evolution/blob/master/workout/network/https-standart.js)
+10. [request module](https://github.com/Grayni/node-evolution/blob/master/workout/network/request-module.js)
