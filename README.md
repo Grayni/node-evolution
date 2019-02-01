@@ -10,3 +10,4 @@ Actual list of templates and examples:
 5. [setImmediate and process.nextTick](https://github.com/Grayni/node-evolution/blob/master/workout/setImmediate-and-nextTick.js)
 6. [cli minimist](https://github.com/Grayni/node-evolution/blob/master/workout/console-app/cli-minimist.js)
 7. [cli readline](https://github.com/Grayni/node-evolution/blob/master/workout/console-app/cli-readline.js)
+8. [cli fs](https://github.com/Grayni/node-evolution/blob/master/workout/console-app/cli-fs.js)
