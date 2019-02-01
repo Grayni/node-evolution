@@ -14,3 +14,4 @@ Actual list of templates and examples:
  9. [https module](https://github.com/Grayni/node-evolution/blob/master/workout/network/https-standart.js)
 10. [request module](https://github.com/Grayni/node-evolution/blob/master/workout/network/request-module.js)
 11. [nodemailer module](https://github.com/Grayni/node-evolution/blob/master/workout/network/nodemailer.js)
+12. [http-server](https://github.com/Grayni/node-evolution/blob/master/workout/network/http-server.js)
